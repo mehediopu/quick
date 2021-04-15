@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+border: 1px solid #b9afaf;
+}
+.header_contant{
+
+width: 90%;
+
+margin-left: 5%;
+
+/* padding-top: 6px; */
+
+/* padding-bottom: 2px; */
+
+overflow: hidden;
+
+}
+.logo{
+    width: 20%;
+    float: left;
+
+ }
+.logo img{
+    width: 40%;
+}
+nav{
+    width: 30%;
+    float: right;
+    overflow: hidden;
+    padding-top: 2px;
+    overflow: hidden;
+}
+nav ul{
+
+list-style: none;
+
+
+}
+nav ul li{
+
+float: left;
+
+margin: 9px;
+
+text-transform: capitalize;
+
+font-size: 16px;
+}
+.content{
+    width:60%;
+    margin-left:20%;
+
+}
+.content h1{
+    text-align:center;
+    color: #0B8FFF;
+    font-size: 46px;
+    
+}
+.content p{
+    
+text-align: center;
+    
+margin-top: 12px;
+    
+color: #000000;
+    
+/* text-align: right; */
+}
+.content img{
+   
+margin-top: 22px;
+}
+.content h1:first-child{
+    color: #0F2656;
+    margin-top: 25px;
+}
+.main-content{
+
+}
+.left-content{
+
+width: 46%;
+
+float: left;
+}
+.left-content h1{
+
+/* width: 50%; */
+
+/* float: left; */
+
+text-align: right;
+
+color: red !important;
+}
+.left-content p{
+
+/* text-align: center; */
+
+text-align: right;
+
+margin: 5px;
+}
+.right-content{
+
+width: 46%;
+
+float: right;
+}
+.right-content h1{
+    text-align: inherit;
+    font-size: 37px;
+}
+.header{
+
+width: 90%;
+
+margin: auto;
+
+overflow: hidden;
+
+/* margin: auto; */
+
+margin-top: 179px;
+}
+.feature_one img{width: 90%;}
+.feature_one h3{
+    
+text-align: left;
+}
+.feature_one p{
+    
+text-align: left;
+}
+.feature_one{
+    
+width: 30%;
+    
+float: left;
+    
+text-align: center;
+    
+background: #FDEBED;
+    
+padding: 40px 11px;
+    
+height: 300px;
+}
+.feature_two{
+    
+width: 30%;
+    
+float: left;
+    
+margin-left: 3%;
+    
+background: #EBF9F4;
+    
+text-align: center;
+    
+padding: 35px 10px;
+}
+.feature_two img{
+    
+width: 100%;
+}
+.feature_two h3{
+    
+text-align: left;
+}
+.feature_two p{
+    
+text-align: center;
+}
+.feature_three{
+    
+width: 30%;
+    
+float: right;
+    
+text-align: center;
+    
+background: #FFF7E8;
+    
+
+padding: 40px 6px;
+    
+height: 300px;
+}
+.feature_three img{
+    
+width: 100%;
+}
+.feature_three h3{
+    
+text-align: left;
+}
+.feature_three p{
+    
+text-align: center;
+}
+footer{
+    background: #0B8FFF;
+    overflow: hidden;
+    text-align: center;
+    margin-top: 22px;
+    width: 90%;
+    margin-left: 4%;
+    padding: 12px;
+}
+footer p{
+
+color: aliceblue;
+
+display: inline;
+}
+footer h1{
+    
+display: inline;
+    
+letter-spacing: 3px;
+    
+color: #fff;
+}
+
